@@ -1,0 +1,16 @@
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\BitManipulation.exe.config
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\BitManipulation.exe
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\BitManipulation.pdb
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\nunit.framework.dll
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\nunit.framework.pdb
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\nunit.framework.xml
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\obj\Debug\BitManipulation.csproj.CoreCompileInputs.cache
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\obj\Debug\BitManipulation.csproj.CopyComplete
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\obj\Debug\BitManipulation.exe
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\obj\Debug\BitManipulation.pdb
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\NUnit3.TestAdapter.dll
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\NUnit3.TestAdapter.pdb
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\nunit.engine.dll
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\nunit.engine.api.dll
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\C#Projects\CrackingTheCodingInterview\CrackingTheCodingInterview\BitManipulation\obj\Debug\BitManipulation.csprojAssemblyReference.cache
