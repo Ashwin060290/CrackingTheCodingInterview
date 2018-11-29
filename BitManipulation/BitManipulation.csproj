@@ -55,7 +55,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BitmapInsertion.cs" />
+    <Compile Include="P2_DecimalBinary.cs" />
+    <Compile Include="P1_BitmapInsertion.cs" />
+    <Compile Include="P3_FlipBit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
