@@ -83,7 +83,7 @@ namespace BitManipulation
     [TestFixture]
     public class TestDrawLine
     {
-        [Test]
+        
         public void Display()
         {
             byte[] screen = new byte[10]{0, 255, 255,255,0,0,0,0,0,0 };

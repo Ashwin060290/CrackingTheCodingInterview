@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="P1_SortedMerge.cs" />
     <Compile Include="P2_GroupAnagrams.cs" />
+    <Compile Include="P4_SortedSearchNoSize.cs" />
+    <Compile Include="P5_SparseSearch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SearchingAlgorithm.cs" />
