@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HardProblems", "HardProblem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardProblemsProject", "HardProblemsProject\HardProblemsProject.csproj", "{1DC5124C-10EC-4214-9320-F60425F93B7C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CareerCup", "CareerCup", "{6F816E9A-DB99-42D2-9808-5427F78AADB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonQuestions", "AmazonQuestions\AmazonQuestions.csproj", "{5C06E814-ECC6-48BF-83AC-2899B4D4FB2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{1DC5124C-10EC-4214-9320-F60425F93B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DC5124C-10EC-4214-9320-F60425F93B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DC5124C-10EC-4214-9320-F60425F93B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C06E814-ECC6-48BF-83AC-2899B4D4FB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C06E814-ECC6-48BF-83AC-2899B4D4FB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C06E814-ECC6-48BF-83AC-2899B4D4FB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C06E814-ECC6-48BF-83AC-2899B4D4FB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{8C32D568-BEBE-4F17-B0F7-063832FA2BBD} = {A8999753-720E-481B-961F-571D821D455E}
 		{FA95AB21-A597-4DA3-94DC-B00E91215CBF} = {7D0ED16B-2AEF-477C-8A6A-76869DBD3A71}
 		{1DC5124C-10EC-4214-9320-F60425F93B7C} = {3A41B8DB-83A9-48B0-9664-C44850C552A1}
+		{5C06E814-ECC6-48BF-83AC-2899B4D4FB2E} = {6F816E9A-DB99-42D2-9808-5427F78AADB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65BF7EF9-30F8-40B1-AA07-76C7F66D9362}
