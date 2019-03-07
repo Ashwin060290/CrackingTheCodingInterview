@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="P10_RankFromStream.cs" />
+    <Compile Include="P11_PeaksAndValley.cs" />
     <Compile Include="P1_SortedMerge.cs" />
     <Compile Include="P2_GroupAnagrams.cs" />
     <Compile Include="P4_SortedSearchNoSize.cs" />
