@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="P1_NumberSwapper.cs" />
     <Compile Include="P2_TicTacWin.cs" />
+    <Compile Include="P3_FactorialZeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
