@@ -61,9 +61,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LRUCache.cs" />
+    <Compile Include="MedianFinder.cs" />
     <Compile Include="OddTimesOccurence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickSelect.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
