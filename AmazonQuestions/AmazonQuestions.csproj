@@ -66,6 +66,7 @@
     <Compile Include="DeckOfCards.cs" />
     <Compile Include="Hiphen.cs" />
     <Compile Include="MaxInSubArray.cs" />
+    <Compile Include="MemoryUtilization.cs" />
     <Compile Include="OddTimesOccurence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
