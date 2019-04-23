@@ -63,10 +63,15 @@
   <ItemGroup>
     <Compile Include="LRUCache.cs" />
     <Compile Include="MedianFinder.cs" />
+    <Compile Include="DeckOfCards.cs" />
+    <Compile Include="Hiphen.cs" />
+    <Compile Include="MaxInSubArray.cs" />
     <Compile Include="OddTimesOccurence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuickSelect.cs" />
+    <Compile Include="QuickSelectHome.cs" />
+    <Compile Include="TowerHopper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
